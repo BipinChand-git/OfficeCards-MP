@@ -1,3 +1,3 @@
 # CardProject-MP
 
-Just a fun project with vanilla CSS.
+Just a fun fully responsive project with vanilla CSS.
